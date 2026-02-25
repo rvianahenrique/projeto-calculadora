@@ -65,7 +65,7 @@ git push -u origin main
 
 ### URL do seu site
 ```
-https://SEU_USUARIO.github.io/calculadora/
+https://rvianahenrique.github.io/projeto-calculadora/
 ```
 
 ## Tecnologias
